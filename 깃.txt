@@ -1,0 +1,48 @@
+-깃 설치 
+https://git-scm.com/downloads/win
+windows 용 64bit 설치
+
+Use Visual Studio Code as Git's default editor -> next
+Use Windows' default console window -> next
+
+프로그램 설치 
+
+-깃 교안
+https://leeeungyoung.github.io/
+
+-깃 허브 계정 로그인
+이름 : yul821 
+id : wxl750@naver.com
+pw: wxl021212**
+
+
+
+* 깃(git)
+1) 버전 관리 시스템
+2) 백업 : 깃 허브 사용
+3) 협업 : 팀원들과 파일을 공유
+
+1. 깃 환경설정
+2. 초기화
+: 폴더별로 초기화 함
+3. 스테이징 , 커밋하기
+-스테이지 : 파일 대기 공간 (<- 스테이징)
+-저장소 : 버전을 만들어 저장하는 것 (<- 커밋)
+=> 커밋 후 새로운 버전이 생성되면서 스테이지에 대기하던 파일이 모두 저장
+됨.
+-작업트리 : 파일 수정, 저장 등의 작업을 하는 디렉터리
+
+
+(작업 트리) -> 스테이지에 올려서 -> 저장소로 들어가게 됨
+작업하는 디렉터리 안에 .git숨김파일이 생성 됨. 
+
+
+
+
+
+
+
+
+
+
+
